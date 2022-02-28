@@ -1,0 +1,1789 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les quatrains du seigneur de Pybrac, conseiller du Roy en son conseil privé Contenant preceptes &amp; enseignemens, utiles &amp; profitables pour tous Chrêtiens. Avec les Quatrains du President le Faure. Ensemble les Quatrains de la vanité du monde. Le tout revû, corrigé &amp; augmenté des tablettes ou Quatrains de la vie &amp; de la mort, par Pierre Matthieu, conseiller du Roy. Divisé en deux parties.</title>
+            <author>Pibrac, Guy du Faur, seigneur de, 1529-1584.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90671</idno>
+            <idno type="STC">Wing P2148A</idno>
+            <idno type="STC">ESTC R230087</idno>
+            <idno type="EEBO-CITATION">99895913</idno>
+            <idno type="PROQUEST">99895913</idno>
+            <idno type="VID">153482</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90671)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153482)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2367:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Les quatrains du seigneur de Pybrac, conseiller du Roy en son conseil privé Contenant preceptes &amp; enseignemens, utiles &amp; profitables pour tous Chrêtiens. Avec les Quatrains du President le Faure. Ensemble les Quatrains de la vanité du monde. Le tout revû, corrigé &amp; augmenté des tablettes ou Quatrains de la vie &amp; de la mort, par Pierre Matthieu, conseiller du Roy. Divisé en deux parties.</title>
+                  <author>Pibrac, Guy du Faur, seigneur de, 1529-1584.</author>
+               </titleStmt>
+               <extent>84, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>chez D. Du Chemin marchand libraire, dans le Strand, proche la Savoye; vis-à-vis Sommerset-House, au Sacrifice d'Abraham,</publisher>
+                  <pubPlace>A Londres :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Gathered in 4's.</note>
+                  <note>With 2 final advertisement leaves.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library, Washington, D.C..</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="fre">fre</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>French literature --  Early works to 1800.</term>
+               <term>French poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153482:1" rendition="simple:additions"/>
+            <pb facs="tcp:153482:1" rendition="simple:additions"/>
+            <p>LES QUATRAINS DU SEIGNEUR DE PYBRAC, CONSEILLER DU ROY en ſon
+Conſeil Privé. Contenant preceptes &amp; enſeignemens, utiles &amp;
+profitables pour tous Chrêtiens. <hi>Avec les Quatrains du Preſident
+le</hi> FAURE. Enſemble les Quatrains de la Vanité du Monde.</p>
+            <p>
+               <hi>Le tout revû, corrigé &amp; augmenté des
+Tablettes ou Quatrains de la Vie &amp; de la Mort, Par</hi> PIERRE MATTHIEU,
+<hi>Conſeiller du Roy.</hi> Diviſé en deux Parties.</p>
+            <p>
+               <hi>A LONDRES,</hi> Chez D. DU CHEMIN Marchand Libraire, dans le
+<hi>Strand,</hi> proche la Savoye, vis-à-vis
+<hi>Sommerſet-Houſe,</hi> au Sacrifice d'Abraham. 1697.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:153482:2"/>
+            <head>AU LECTEUR, SALUT.</head>
+            <l>JE n'ay tâché cét oeuvre façaonner,</l>
+            <l>D'un ſtyle doux, afin qu'il puiſſe plaire:</l>
+            <l>Car auſſi bien n'entens je le donner,</l>
+            <l>Quà ceux qui n'ont ſoucy que de bien faire.</l>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb n="3" facs="tcp:153482:2"/>
+            <head>LES QUATRAINS DU SEIGNEUR DE PYBRAC, CONSEILLER DU ROY, en
+ſon Conſeil Privé.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>
+                  <seg rend="decorInit">D</seg>IEU tout premier, puis pere &amp; mere honore:</l>
+               <l>Sois juſte &amp; droit, &amp; en toute ſaiſon</l>
+               <l>De l'innocent prens en main la raiſon:</l>
+               <l>Car Dieu te doit là haut juger encore.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Si en jugeant la faveur te commande,</l>
+               <l>Si corrompu par or, ou par preſens</l>
+               <l>Tu fais juſtice au gré des Courtiſans,</l>
+               <l>Ne doute point que Dieu ne te le rende.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Avec le jour commence ta journée,</l>
+               <l>De l'Eternel le ſaint nom beniſſant,</l>
+               <l>Le ſoir auſſi ton labeur finiſſant</l>
+               <l>Loüe-le encor, &amp; paſſe ainſi l'année.</l>
+            </lg>
+            <pb n="4" facs="tcp:153482:3"/>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Adore aſſis, comme le Grec ordonne,</l>
+               <l>Dieu en courant ne veut être honoré,</l>
+               <l>D'un ferme coeur il veut être adoré:</l>
+               <l>Mais ce coeur là il faut qu'il nous le donne.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Ne va diſant, ma main a fait cette oeuvre,</l>
+               <l>Ou ma vertu ce bel oeuvre a parfait;</l>
+               <l>Mais, dis ainſi, Dieu par moy l'oeuvre à fait,</l>
+               <l>Dieu eſt l'autheur du peu de bien que j'oeuvre.</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Tout l'univers n'eſt qu'une Cité ronde,</l>
+               <l>Chacun à droit de s'en dire bourgeois,</l>
+               <l>Le Scythe &amp; More autant que le Gregeois,</l>
+               <l>Le plus petit que le plus grand du monde.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Dans le pourpris de cette Cité belle,</l>
+               <l>Dieu a logé l'homme comme en lieu ſaint,</l>
+               <l>Comme en un temple où luy même s'eſt peint,</l>
+               <l>En mille endroits de couleur immortelle.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>Il n'y a coin ſi petit dans ce Temple</l>
+               <l>Où la grandeur n'apparoiſſe de Dieu:</l>
+               <l>L'homme eſt planté juſtement au milieu,</l>
+               <l>Afin que mieux par tout il la contemple.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Il ne ſçauroit ailleurs mieux la connoître</l>
+               <l>Que dedans ſoy, ou comme en un miroir,</l>
+               <l>La Terre il peut &amp; le Ciel même voir;</l>
+               <l>Car tout le monde eſt compris en ſon être.</l>
+            </lg>
+            <pb n="5" facs="tcp:153482:3"/>
+            <lg n="10">
+               <head>X.</head>
+               <l>Qui a de ſoy parfaite connoiſſance,</l>
+               <l>N'ignore rien de ce qu'il faut ſçavoir:</l>
+               <l>Mais le moyen aſſeuré de l'avoir,</l>
+               <l>Eſt ſe mirer dedans la Sapience.</l>
+            </lg>
+            <lg n="11">
+               <head>XI.</head>
+               <l>Ce que tu vois de l'homme n'eſt pas l'homme,</l>
+               <l>C'eſt la priſon où il eſt enſerré,</l>
+               <l>C'eſt le tombeau où il eſt enterré,</l>
+               <l>Le lit branlant où il dort un court ſomme.</l>
+            </lg>
+            <lg n="12">
+               <head>XII.</head>
+               <l>Ce corps mortel où l'oeil ravy contemple,</l>
+               <l>Muſcles &amp; nerfs, la chair, le ſang, la peau,</l>
+               <l>Ce n'eſt pas l'homme, il eſt beaucoup plus beau,</l>
+               <l>Auſſi Dieu l'a reſervé pour ſon temple.</l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>A bien parler ce que l'homme on appelle,</l>
+               <l>C'eſt un rayon de la Divinité,</l>
+               <l>C'eſt un atome éclos de l'unité,</l>
+               <l>C'eſt un dégout de la ſource eternelle.</l>
+            </lg>
+            <lg n="14">
+               <head>XIV.</head>
+               <l>Reconnois donc homme ton origine,</l>
+               <l>Et brave &amp; haut dédaigne ces bas lieux,</l>
+               <l>Puis que fleurir tu dois là haut és Cieux,</l>
+               <l>Et que tu es une plante Divine.</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>Il t'eſt permis t'orgueillir de la race,</l>
+               <l>Non de ta mere &amp; ton pere mortel:</l>
+               <l>Mais bien de Dieu ton vray pere immortel,</l>
+               <l>Qui t'a moulé au moule de ſa face.</l>
+            </lg>
+            <pb n="6" facs="tcp:153482:4"/>
+            <lg n="16">
+               <head>XVI.</head>
+               <l>Au Ciel n'y a nombre infiny d'idées,</l>
+               <l>Platon s'eſt trop en cela méconté,</l>
+               <l>De nôtre Dieu la pure volonté</l>
+               <l>Eſt le ſeul moule à toutes choſes nées.</l>
+            </lg>
+            <lg n="17">
+               <head>XVII.</head>
+               <l>Il veut, c'eſt fait, ſans travail &amp; ſans peine,</l>
+               <l>Tous animaux (juſqu'au moindre qui vit)</l>
+               <l>Il a creé, les ſoûtient, les nourrit,</l>
+               <l>Et les défait du vent de ſon haleine.</l>
+            </lg>
+            <lg n="18">
+               <head>XVIII.</head>
+               <l>Hauſſe les yeux, la voûte ſuſpendüe,</l>
+               <l>Ce beau lambris de la couleur des eaux,</l>
+               <l>Ce rond parfait de deux globes jumeaux,</l>
+               <l>Ce firmament éloigné de la veüe.</l>
+            </lg>
+            <lg n="19">
+               <head>XIX.</head>
+               <l>Bref, ce qui eſt, qui fut, &amp; qui peut être,</l>
+               <l>En terre, en mer, au plus caché des Cieux,</l>
+               <l>Si tôt que Dieu l'a voulu pour le mieux,</l>
+               <l>Tout auſſi-tôt il a reçû ſon
+être.</l>
+            </lg>
+            <lg n="20">
+               <head>XX.</head>
+               <l>Ne va ſuivant le troupeau d'Epicure,</l>
+               <l>Troupeau vilain qui blaſpheme en tout lieu,</l>
+               <l>Et mécroyant ne connoît autre Dieu,</l>
+               <l>Que le fatal ordre de la nature.</l>
+            </lg>
+            <lg n="21">
+               <head>XXI.</head>
+               <l>Et cependant il ſe veautre &amp; patroüille</l>
+               <l>Dans un bourbier püant de tous côtez,</l>
+               <l>Et du limon des ſales voluptez</l>
+               <l>Il ſe repaît comme une orde grenoüille.</l>
+            </lg>
+            <pb n="7" facs="tcp:153482:4"/>
+            <lg n="22">
+               <head>XXII.</head>
+               <l>Heureux qui met en Dieu ſon eſperance,</l>
+               <l>Et qui l'invoque en ſa proſperité,</l>
+               <l>Autant ou plus qu'en ſon averſité,</l>
+               <l>Et ne ſe fie en humaine aſſeurance.</l>
+            </lg>
+            <lg n="23">
+               <head>XXIII.</head>
+               <l>Voudrois-tu bien mettre eſperance ſîre</l>
+               <l>En ce qui eſt imbecile &amp; mortel?</l>
+               <l>Le plus grand Roy du monde n'eſt que tel,</l>
+               <l>Et a beſoin, plus que toy qu'on l'aſſûre.</l>
+            </lg>
+            <lg n="24">
+               <head>XXIV.</head>
+               <l>De l'homme droit, Dieu eſt la ſauve-garde:</l>
+               <l>Lors que de tous il eſt abandonné,</l>
+               <l>C'eſt lors que moins il ſe trouve étonné,</l>
+               <l>Car il ſçait bien que Dieu lors plus le garde.</l>
+            </lg>
+            <lg n="25">
+               <head>XXV.</head>
+               <l>Les biens du corps &amp; ceux de la fortune,</l>
+               <l>Ne ſont pas biens à parler proprement,</l>
+               <l>Ils ſont ſujets au moindre changement:</l>
+               <l>Mais la vertu demeure toûjours une.</l>
+            </lg>
+            <lg n="26">
+               <head>XXVI.</head>
+               <l>Vertu qui gît entre les deux extréme,</l>
+               <l>Entre le plus &amp; le moins qu'il ne faut,</l>
+               <l>N'excede en rien &amp; rien ne luy deffaut,</l>
+               <l>D'autruy n'emprunte &amp; ſuffit à
+ſoy-même.</l>
+            </lg>
+            <lg n="27">
+               <head>XXVII.</head>
+               <l>Qui te pourroit, Vertu voir toute nüe,</l>
+               <l>O qu'ardamment de toy ſeroit épris!</l>
+               <l>Puis qu'en tout temps les plus rares eſprits</l>
+               <l>T'ont fait l'amour au travers d'une nüe.</l>
+            </lg>
+            <pb n="8" facs="tcp:153482:5"/>
+            <lg n="28">
+               <head>XXVIII.</head>
+               <l>Le ſage fils eſt du pere la joye:</l>
+               <l>Or ſi tu veux ce ſage fils avoir,</l>
+               <l>Dreſſe le jeune au chemin du devoir;</l>
+               <l>Mais ton exemple eſt la plus courte voye.</l>
+            </lg>
+            <lg n="29">
+               <head>XXIX.</head>
+               <l>Si tu es né, enfant d'un ſage pere,</l>
+               <l>Que ne ſuis-tu le chemin ja batu?</l>
+               <l>S'il n'eſt pas tel, que ne t'efforce-tu?</l>
+               <l>En bien faiſant couvrir ce vitupere.</l>
+            </lg>
+            <lg n="30">
+               <head>XXX.</head>
+               <l>Ce n'eſt pas peu naiſſant d'un tige illuſtre,</l>
+               <l>Etre éclairé par ſes anteceſſeurs:</l>
+               <l>Mais c'eſt bien plus luire à ſes
+ſucceſſeurs,</l>
+               <l>Que des ayeuls ſeulement prendre luſtre.</l>
+            </lg>
+            <lg n="31">
+               <head>XXXI.</head>
+               <l>Juſqu'au cercüeil mon fils vüeilles apprendre,</l>
+               <l>Et tiens perdu le jour qui s'eſt paſſé,</l>
+               <l>Si tu n'y as quelque choſe amaſſé,</l>
+               <l>Pour plus ſçavant &amp; plus ſage te rendre.</l>
+            </lg>
+            <lg n="32">
+               <head>XXXII.</head>
+               <l>Le voyageur qui hors du chemin erre,</l>
+               <l>Eſt égaré ſe perd dedans les bois,</l>
+               <l>Au droit chemin remettre tu le dois,</l>
+               <l>Et s'il eſt chû le relever de terre.</l>
+            </lg>
+            <lg n="33">
+               <head>XXXIII.</head>
+               <l>Aime l'honneur plus que ta propre vie,</l>
+               <l>J'entens l'honneur qui conſiſte au devoir.</l>
+               <l>Que rendre on doit (ſelon l'humain pouvoir)</l>
+               <l>A Dieu, au Roy, aux Loix, à ſa Patrie.</l>
+            </lg>
+            <pb n="9" facs="tcp:153482:5"/>
+            <lg n="34">
+               <head>XXXIV.</head>
+               <l>Ce que tu peux maintenant ne differe</l>
+               <l>Au lendemain, comme le pareſſeux:</l>
+               <l>Et garde auſſi que tu ne ſois de ceux</l>
+               <l>Qui par autrui font ce qu'ils pourroient faire.</l>
+            </lg>
+            <lg n="35">
+               <head>XXXV.</head>
+               <l>Hante les bons, des méchans ne t'accointe,</l>
+               <l>Et mémement en la jeune ſaiſon,</l>
+               <l>Que l'apetit, (pour forcer la raiſon)</l>
+               <l>Arme nos ſens d'une brutale pointe.</l>
+            </lg>
+            <lg n="36">
+               <head>XXXVI.</head>
+               <l>Quand au chemin fourchu de ces deux Dames,</l>
+               <l>Tu te verras (comme Alcide ſemond;)</l>
+               <l>Suis celle-là, qui par un âpre mont</l>
+               <l>Te guide au Ciel, loin des plaiſirs infames.</l>
+            </lg>
+            <lg n="37">
+               <head>XXXVII.</head>
+               <l>Ne mets ton pied au ttavers de la voye</l>
+               <l>Du pauvre aveugle, &amp; d'un piquant propos</l>
+               <l>De l'homme mort ne trouble le repos,</l>
+               <l>Et du mal-heur d'autruy ne fais ta joye.</l>
+            </lg>
+            <lg n="38">
+               <head>XXXVIII.</head>
+               <l>En ton parler ſois toûjours veritable,</l>
+               <l>Soit qu'il te faille en témoignage ouïr,</l>
+               <l>Soit que par fois tu vueilles réjouïr</l>
+               <l>D'un gay propos tes hôtes à la table.</l>
+            </lg>
+            <lg n="39">
+               <head>XXXIX.</head>
+               <l>La verité d'un Cube droit ſe forme,</l>
+               <l>Cube contraire au leger mouvement,</l>
+               <l>Son plan quarré jamais ne ſe dément,</l>
+               <l>Et en tous ſens a toûjours même forme.</l>
+            </lg>
+            <pb n="10" facs="tcp:153482:6"/>
+            <lg n="40">
+               <head>XL.</head>
+               <l>L'oiſeleur caut ſe ſert du doux ramage</l>
+               <l>Des oiſillons, &amp; contrefait leur chant:</l>
+               <l>Ainſi pour mieux decevoir le méchant,</l>
+               <l>Des gens de bien imite le langage.</l>
+            </lg>
+            <lg n="41">
+               <head>XLI.</head>
+               <l>Ce qu'en ſecret l'on t'a dit ne revele,</l>
+               <l>Des faits d'autruy ne ſois trop enquerant,</l>
+               <l>Le curieux volontiers toûjours ment,</l>
+               <l>L'autre merite être dit infidelle.</l>
+            </lg>
+            <lg n="42">
+               <head>XLII.</head>
+               <l>Fais poids égal &amp; loyale mefure,</l>
+               <l>Quand tu devrois de nul être apperçû:</l>
+               <l>Mais le plaiſir que tu auras reçû,</l>
+               <l>Ren-le toûjours avec quelque uſure.</l>
+            </lg>
+            <lg n="43">
+               <head>XLIII.</head>
+               <l>Garde ſoigneux le dépôt à toute heure,</l>
+               <l>Et quand on veut de toy le recouvrer,</l>
+               <l>Ne va ſubtil des moyens controuver</l>
+               <l>Dans un Palais, afin qu'il te demeure.</l>
+            </lg>
+            <lg n="44">
+               <head>XLIV.</head>
+               <l>L'homme de ſang te ſoit toûjours en haine,</l>
+               <l>Hüe ſur luy, comme fait le Berger</l>
+               <l>Numidien ſur le tygre leger,</l>
+               <l>Qui voit de loin enſanglanter la plaine.</l>
+            </lg>
+            <lg n="45">
+               <head>XLV.</head>
+               <l>Ce n'eſt pas tout ne faire à nul outrage,</l>
+               <l>Il faut de plus s'oppoſer à l'effort</l>
+               <l>Du mal heureux qui pourchaſſe la mort,</l>
+               <l>Ou du prochain la honte &amp; le dommage,</l>
+            </lg>
+            <pb n="11" facs="tcp:153482:6" rendition="simple:additions"/>
+            <lg n="46">
+               <head>XLVI.</head>
+               <l>Qui a deſir d'exploiter ſa proüeſſe,</l>
+               <l>Dompte ſon ire, &amp; ce ventre &amp; ce feu,</l>
+               <l>Qui dans nos coeurs s'allume peu à peu,</l>
+               <l>Soufflé du vent d'erreur &amp; de pareſſe.</l>
+            </lg>
+            <lg n="47">
+               <head>XLVII.</head>
+               <l>Vaincre ſoy-même &amp; la grande victoire:</l>
+               <l>Chacun chez ſoy loge ſes ennemis,</l>
+               <l>Qui par l'effort de la raiſon ſous mis,</l>
+               <l>Ouvre le pas à l'eternelle gloire.</l>
+            </lg>
+            <lg n="48">
+               <head>XLVIII.</head>
+               <l>Si ton amy a commis quelque offenſe,</l>
+               <l>Ne va foudain contre luy t'irriter,</l>
+               <l>Ains doucement pour ne le dépiter,</l>
+               <l>Fais luy ta plainte, &amp; reçois ſa
+défenſe.</l>
+            </lg>
+            <lg n="49">
+               <head>XLIX.</head>
+               <l>L'homme eſt fautif, nul vivant ne peut dire</l>
+               <l>N'avoir failly, és hommes plus parſaits</l>
+               <l>Examinant &amp; leurs dits &amp; leurs faits,</l>
+               <l>Tu trouveras, ſi tu veux, à redire.</l>
+            </lg>
+            <lg n="50">
+               <head>L.</head>
+               <l>Vois l'hypocrite avec ſa triſte mine,</l>
+               <l>Tu le prendrois pour l'aîné des Catons,</l>
+               <l>Et cependant toute nuit à tâtons:</l>
+               <l>Il court, il va, pour tromper ſa voiſine.</l>
+            </lg>
+            <lg n="51">
+               <head>LI.</head>
+               <l>Cacher ſon vice eſt une peine extréme,</l>
+               <l>Et peine en vain; fais ce que tu voudras,</l>
+               <l>A toy au moins cacher ne te pourras:</l>
+               <l>Car nul ne peut ſe cacher à ſoy-même.</l>
+            </lg>
+            <pb n="12" facs="tcp:153482:7"/>
+            <lg n="52">
+               <head>LII.</head>
+               <l>Aye de toy, plus que des autres, honte:</l>
+               <l>Nul plus que toy, par toy n'eſt offenſe:</l>
+               <l>Tu dois premier, ſi bien y as penſé,</l>
+               <l>Rendre de toy, à toy même le compte.</l>
+            </lg>
+            <lg n="53">
+               <head>LIII.</head>
+               <l>Point ne te chaille être bon d'app<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rence,</l>
+               <l>Mais bien ne l'être à preuve &amp; par effet:</l>
+               <l>Contre un faux bruit que le vulgaire fait,</l>
+               <l>Il n'eſt rempart tel que la conſcience.</l>
+            </lg>
+            <lg n="54">
+               <head>LIV.</head>
+               <l>A l'indigent montre-toy ſecourable,</l>
+               <l>Luy faiſant part de tes biens à foiſon:</l>
+               <l>Que Dieu benit &amp; accroît la maiſon</l>
+               <l>Qui a pitié du pauvre miſerable.</l>
+            </lg>
+            <lg n="55">
+               <head>LV.</head>
+               <l>Las! que te ſert tant d'or dedans ta bourſe,</l>
+               <l>Au cabinet maint riche vêtement,</l>
+               <l>Dans tes greniers tant d'orge &amp; de froment,</l>
+               <l>Et de bon vin dans ta cave une ſource?</l>
+            </lg>
+            <lg n="56">
+               <head>LVI.</head>
+               <l>Si cependant le pauvre nud friſſonne</l>
+               <l>Devant ta porte &amp; languiſſant de fain,</l>
+               <l>Pour tout enfin n'a qu'un morceau de pain,</l>
+               <l>Ou s'en reva ſans que rien on luy donne.</l>
+            </lg>
+            <lg n="57">
+               <head>LVII.</head>
+               <l>As-tu, cruel! le coeur de telle ſorte,</l>
+               <l>De mépriſer le pauvre infortuné,</l>
+               <l>Qui comme toy eſt en ce monde né,</l>
+               <l>Et comme toy de Dieu l'image porte.</l>
+            </lg>
+            <pb n="13" facs="tcp:153482:7" rendition="simple:additions"/>
+            <lg n="58">
+               <head>LVIII.</head>
+               <l>Le mal-heur eſt commun à tous les hommes,</l>
+               <l>Et mémement aux Princes &amp; aux Rois:</l>
+               <l>Le ſage ſeul eſt exempt de ſes loix:</l>
+               <l>Mais où eſt-il, las! au ſiecle où nous
+ſommes?</l>
+            </lg>
+            <lg n="59">
+               <head>LIX.</head>
+               <l>Le ſage eſt libre enferré de cent chaînes,</l>
+               <l>Il eſt ſeul riche, &amp; jamais étranger,</l>
+               <l>Seul aſſeuré au milieu du danger,</l>
+               <l>Et le vray Roy des fortunes humaines.</l>
+            </lg>
+            <lg n="60">
+               <head>LX.</head>
+               <l>Le menacer du tyran ne l'étonne,</l>
+               <l>Plus ſe roidit quand plus eſt agité,</l>
+               <l>Il connoît ſeul ce qu'il a merité,</l>
+               <l>Et ne l'attend hors de ſoy de perſonne.</l>
+            </lg>
+            <lg n="61">
+               <head>LXI.</head>
+               <l>Vertu és moeurs ne s'acquiert par l'étude,</l>
+               <l>Ny par argent, ny par faveur des Rois,</l>
+               <l>Ny par un acte, ou par deux, ou par trois,</l>
+               <l>Ains par conſtante &amp; par longue habitude.</l>
+            </lg>
+            <lg n="62">
+               <head>LXII.</head>
+               <l>Qui lit beaucoup, &amp; jamais ne medite,</l>
+               <l>Semble à celuy qui mange avidement,</l>
+               <l>Et de tous mets ſur-charge tellement</l>
+               <l>Son eſtomach, que rien ne luy profite.</l>
+            </lg>
+            <lg n="63">
+               <head>LXIII.</head>
+               <l>Maint l'un pouvoit par temps devenir ſage,</l>
+               <l>S'il n'eût penſé l'ètre ja tout à
+fait:</l>
+               <l>Quel Artiſan fut one Maître parſait</l>
+               <l>Du premier jour de ſon apprentiſſage?</l>
+            </lg>
+            <pb n="14" facs="tcp:153482:8"/>
+            <lg n="64">
+               <head>LXIV.</head>
+               <l>Petits ruiſſeaux font les groſſes rivieres:</l>
+               <l>Qui bruit ſi haut à ſon commencement,</l>
+               <l>N'a pas long cours, non plus que le torrent,</l>
+               <l>Qui perd ſon cours és prochaines fondrieres.</l>
+            </lg>
+            <lg n="65">
+               <head>LXV.</head>
+               <l>Maudit celuy qui fraude la ſemence,</l>
+               <l>Ou qui retint le ſalaire promis</l>
+               <l>Au mercenaire; &amp; qui de ſes mis</l>
+               <l>Ne ſe ſouvient ſinon en leur preſence.</l>
+            </lg>
+            <lg n="66">
+               <head>LXVI.</head>
+               <l>Ne te parjure en aucune maniere:</l>
+               <l>Et ſi tu es contraint faire ſerment,</l>
+               <l>Le Ciel ne jure, ou l'homme, ou l'element,</l>
+               <l>Ains par le nom de la Cauſe premiere.</l>
+            </lg>
+            <lg n="67">
+               <head>LXVII.</head>
+               <l>Car Dieu qui hait le parjure execrable,</l>
+               <l>Et le punit comme il a merité,</l>
+               <l>Ne veut que l'on témoigne verité,</l>
+               <l>Par ce qui eſt menſonger &amp; muable.</l>
+            </lg>
+            <lg n="68">
+               <head>LXVIII.</head>
+               <l>Un Art ſans plus, en luy ſeul t'exercite,</l>
+               <l>Et du métier d'autruy ne t'empêchant,</l>
+               <l>Va dans le tien le parfait recherchant:</l>
+               <l>Car l'exceller n'eſt pas gloire petite.</l>
+            </lg>
+            <lg n="69">
+               <head>LXIX.</head>
+               <l>Plus n'embraſſer que l'on ne peut étraindre,</l>
+               <l>Aux grands honneurs convoiteux n'aſpirer:</l>
+               <l>Uſer des biens, &amp; ne les diſirer,</l>
+               <l>Ne ſouhaitter la mort, &amp; ne la craindre.</l>
+            </lg>
+            <pb n="15" facs="tcp:153482:8" rendition="simple:additions"/>
+            <lg n="70">
+               <head>LXX.</head>
+               <l>Il ne faut pas aux plaiſirs de la couche</l>
+               <l>De chaſteté rêtraindre le beau don,</l>
+               <l>Et cependant livrer à l'abandon,</l>
+               <l>Ses yeux, ſes mains, ſon oreille &amp; ſa bouche.</l>
+            </lg>
+            <lg n="71">
+               <head>LXXI.</head>
+               <l>Ha! le dur coup, qu'eſt celuy de l'oreille,</l>
+               <l>L'homme en devient quelquefois forcené,</l>
+               <l>Même alors qu'il nous eſt aſſené</l>
+               <l>D'un beau parler plein de douce merveille.</l>
+            </lg>
+            <lg n="72">
+               <head>LXXII.</head>
+               <l>Mieux nous vaudroit des oreillettes prendre</l>
+               <l>Pour nous ſauver de ces coups dangereux:</l>
+               <l>Par là s'armoient les Pugils valeureux,</l>
+               <l>Quand ſur l'arene il leur falloit deſcendre.</l>
+            </lg>
+            <lg n="73">
+               <head>LXXIII.</head>
+               <l>Ce qui en nous par l'oreille penetre,</l>
+               <l>Dans le cerveau coule foudainement,</l>
+               <l>Et ne ſeaaurions y pourvoir autrement,</l>
+               <l>Que tenant cloſe au mal cette fenêtre.</l>
+            </lg>
+            <lg n="74">
+               <head>LXXIV.</head>
+               <l>Parler beaucoup on ne peut ſans menſonge,</l>
+               <l>Ou pour le moins ſans quelque vanité:</l>
+               <l>Le parler bref convient à verité,</l>
+               <l>Et l'autre eſt propre à la fable &amp; au ſonge.</l>
+            </lg>
+            <lg n="75">
+               <head>LXXV.</head>
+               <l>Du Memphien la grave contenance,</l>
+               <l>Lors que ſa bouche il ſerre avec le doigt,</l>
+               <l>Mieux que Platon enſeigne comme on doit</l>
+               <l>Reveremment honorer le ſilence.</l>
+            </lg>
+            <pb n="16" facs="tcp:153482:9"/>
+            <lg n="76">
+               <head>LXXVI.</head>
+               <l>Comme l'on voit à l'ouvrir de la porte</l>
+               <l>D'un cabinet Royal, maint beau tableau,</l>
+               <l>Mainte antiquaille, &amp; tout ce que de beau</l>
+               <l>Le Portugais des Indes nous apporte.</l>
+            </lg>
+            <lg n="77">
+               <head>LXXVII.</head>
+               <l>Ainſi dés lors que l'homme qui médites,</l>
+               <l>Et eſt ſeaavant commence de s'ouvrir,</l>
+               <l>Un grand treſor vient à ſe découvrir,</l>
+               <l>Treſor caché au puits de Démocrite,</l>
+            </lg>
+            <lg n="78">
+               <head>LXXVIII.</head>
+               <l>On dit ſoudain: voila qui fut de Grace,</l>
+               <l>Cecy de Rome, &amp; cela d'un tel lieu,</l>
+               <l>Et le dernier eſt tiré de l'Hebreu:</l>
+               <l>Mais tout en ſomme eſt remply de ſageſſe.</l>
+            </lg>
+            <lg n="79">
+               <head>LXXIX.</head>
+               <l>Nôtre heur pour grand qu'il ſoit nous ſemble
+moindre,</l>
+               <l>Les ſeps d'autruy portent plus de raiſins;</l>
+               <l>Mais quand aux maux que ſouffrent nos voiſins,</l>
+               <l>C'eſt moins querien, ils ont tort de s'en plaindre.</l>
+            </lg>
+            <lg n="80">
+               <head>LXXX.</head>
+               <l>A l'envieux nul tourment je n'ordonne,</l>
+               <l>Il eſt de ſoy le Juge &amp; le bourreau:</l>
+               <l>Et ne fut onc de Denis le Taureau</l>
+               <l>Supplice tel, que celuy qu'il ſe donne.</l>
+            </lg>
+            <lg n="81">
+               <head>LXXXI.</head>
+               <l>Pour bien au vif peindre la calomnie,</l>
+               <l>Il la faudroit peindre comme on la ſent,</l>
+               <l>Qui par bon heur d'elle ne ſe reſſent,</l>
+               <l>Croire ne peut quelle eſt cette furie.</l>
+            </lg>
+            <pb n="17" facs="tcp:153482:9"/>
+            <lg n="82">
+               <head>LXXXII.</head>
+               <l>Elle ne fait en l'air ſa reſidence,</l>
+               <l>Ny ſous les eaux, ny au profond des bois:</l>
+               <l>Sa maiſon eſt aux oreilles des Rois,</l>
+               <l>D'où elle brave &amp; flétrit l'innocence.</l>
+            </lg>
+            <lg n="83">
+               <head>LXXXIII.</head>
+               <l>Quand une fois ce monſtre nous attache,</l>
+               <l>Il ſcait ſi fort ſes cordillons nouer,</l>
+               <l>Que bien qu'on puiſſe en fin les dènouer,</l>
+               <l>Reſtent toûjours les marques de l'attache.</l>
+            </lg>
+            <lg n="84">
+               <head>LXXXIV.</head>
+               <l>Juge, ne donne en ta cauſe ſentence,</l>
+               <l>Chacun ſe trompe en ſon fait aiſément:</l>
+               <l>Noſtre intereſt force le jugement,</l>
+               <l>Et d'un coſté fait pancher la balance.</l>
+            </lg>
+            <lg n="85">
+               <head>LXXXV.</head>
+               <l>Deſſus la Loy tes jugemens arreſte,</l>
+               <l>(Et non ſur l'homme, elle eſt ſans affection:</l>
+               <l>L'homme au contraire eſt plain de paſſion,</l>
+               <l>L'un tient de Dieu, l'autre tient de la beſte.</l>
+            </lg>
+            <lg n="86">
+               <head>LXXXVI.</head>
+               <l>Le nombre ſainct ſe juge par ſa preuve,</l>
+               <l>Toûjours égal, entier, ou départy:</l>
+               <l>Le droict auſſi, en Atomes party,</l>
+               <l>Semblable à ſoy toújours égal ſe
+treuve.</l>
+            </lg>
+            <lg n="87">
+               <head>LXXXVII.</head>
+               <l>Nouveau Ulyſſe apprend du long voyage,</l>
+               <l>A gouverner Ithaque en équitè:</l>
+               <l>Maint a un Scylle &amp; Charibde èvité,</l>
+               <l>Qui heurte au port, &amp; chez ſoy fait naufrage.</l>
+            </lg>
+            <pb n="18" facs="tcp:153482:10"/>
+            <lg n="88">
+               <head>LXXXVIII.</head>
+               <l>Songe long-temps avant que de promettre;</l>
+               <l>Mais ſi tu as quelque choſe promis,</l>
+               <l>Quoy que ce ſoit, &amp; fuſt-ce aux ennemis,</l>
+               <l>De l'accomplir en devoir te faut mettre.</l>
+            </lg>
+            <lg n="89">
+               <head>LXXXIX.</head>
+               <l>La Loy ſous qui l'Eſtat ſa force a priſe,</l>
+               <l>Garde-la bien pour groſſe qu'elle ſoit:</l>
+               <l>Le bon-heur vient d'où l'on ne s'apperçoit,</l>
+               <l>Et bien ſouvent de ce que l'on mépriſe.</l>
+            </lg>
+            <lg n="90">
+               <head>XC.</head>
+               <l>Fuy jeune &amp; vieil de Circe le bruvage:</l>
+               <l>N'écoute auſſi des Syrenes les chants;</l>
+               <l>Car enchanté tu courrois par les champs</l>
+               <l>Plus abruty qu'une beſte ſauvage.</l>
+            </lg>
+            <lg n="91">
+               <head>XCI.</head>
+               <l>Vouloir ne faut que choſe que l'on puiſſe,</l>
+               <l>Et ne pouvoir que cela que l'on doit,</l>
+               <l>Meſurant l'un &amp; l'autre par le droit,</l>
+               <l>Sur l'Eternel, moule de la Juſtice.</l>
+            </lg>
+            <lg n="92">
+               <head>XCII.</head>
+               <l>Changer à coup de Loy &amp; d'Ordonnance,</l>
+               <l>En faict d'Etat eſt un poinct dangereux:</l>
+               <l>Et ſi Licurgue en ce poinct fut heureux,</l>
+               <l>Il ne faut pas en faire conſequence.</l>
+            </lg>
+            <lg n="93">
+               <head>XCIII.</head>
+               <l>Je hay ces mots de puiſſance abſolüe,</l>
+               <l>De plein pouvoir, de propre mouvement,</l>
+               <l>Aux ſaincts Decrets ils ont premierement,</l>
+               <l>Puis à nos Loix la puiſſance tolüe.</l>
+            </lg>
+            <pb n="19" facs="tcp:153482:10"/>
+            <lg n="94">
+               <head>XCIV.</head>
+               <l>Croire leger, &amp; ſoudain ſe reſoudre,</l>
+               <l>Ne diſcerner les amis des flateurs</l>
+               <l>Jeune conſeil, &amp; nouveaux ſerviteurs</l>
+               <l>Ont mis ſouvent les hauts Eſtats en poudre.</l>
+            </lg>
+            <lg n="95">
+               <head>XCV.</head>
+               <l>Diſſimuler eſt un vice ſervile,</l>
+               <l>Vice ſuivy de la deloyaute,</l>
+               <l>D'où ſourd és coeurs des Grands la
+cruauté,</l>
+               <l>Qui aboutìt à la guerre civile.</l>
+            </lg>
+            <lg n="96">
+               <head>XCVI.</head>
+               <l>Donner beaucoup ſied bien à un-grand Prince,</l>
+               <l>Pourveu qu'il donne à qui l'a merité,</l>
+               <l>Par proportion, non par égalité,</l>
+               <l>Et que ce ſoit ſans fouler ſa Province.</l>
+            </lg>
+            <lg n="97">
+               <head>XCVII.</head>
+               <l>Plus que Sylla c'eſt ignorer les lettres,</l>
+               <l>D'avoir induit les peuples à s'armer:</l>
+               <l>On trouvera les voulant dèſarmer,</l>
+               <l>Que de ſubjets ils ſont devenus maiſtres.</l>
+            </lg>
+            <lg n="98">
+               <head>XCVIII.</head>
+               <l>Ri ſi tu veux, un ris ne Democrite,</l>
+               <l>Puis que le monde eſt pure vanité</l>
+               <l>Mais quelquefois touchè d'humanité,</l>
+               <l>Pleure nos maux des larmes d'Heraclite.</l>
+            </lg>
+            <lg n="99">
+               <head>XCIX.</head>
+               <l>A l'Etranger ſois humain &amp; propice,</l>
+               <l>Et s'il ſe plaint incline à ſa raiſon:</l>
+               <l>Mais lui donner les biens de la maiſon,</l>
+               <l>C'eſt faire aux tiens &amp; honte &amp; injuſtice.</l>
+            </lg>
+            <pb n="20" facs="tcp:153482:11"/>
+            <lg n="100">
+               <head>C.</head>
+               <l>Je t'apprendray, ſi tu veux en peu d'heure,</l>
+               <l>Le brau ſecret du breuvage amoureux,</l>
+               <l>Aime les tiens, tu ſeras aimé d'eux,</l>
+               <l>Il n'y a point de recepte meilleure.</l>
+            </lg>
+            <lg n="101">
+               <head>CI.</head>
+               <l>Crainte qui vient d'amour &amp; reverence</l>
+               <l>Eſt un appuy ferme de Royautè:</l>
+               <l>Mais qui ſe fait craindre par cruauté,</l>
+               <l>Luy-meſme craint &amp; vit en defiance.</l>
+            </lg>
+            <lg n="102">
+               <head>CII.</head>
+               <l>Qui ſauroit bien que c'eſt qu'un Diadème,</l>
+               <l>Il choiſiroit auſſi-toſt le tombeau,</l>
+               <l>Que d'affeubler ſon chef de ce bandeau:</l>
+               <l>Car auſſi bien il meurt lors à ſoy-meſme.</l>
+            </lg>
+            <lg n="103">
+               <head>CIII.</head>
+               <l>De jour, de nuit, faire la ſentinelle,</l>
+               <l>Pour le ſalut d'autruy toûjours veiller,</l>
+               <l>Pour le public ſans nul gré travailler,</l>
+               <l>C'eſt en un mot ce qu'Empire j'appelle,</l>
+            </lg>
+            <lg n="104">
+               <head>CIV.</head>
+               <l>Je ne vis onc prudence avec jeuneſſe,</l>
+               <l>Bien commander ſans avoir obey,</l>
+               <l>Eſtre fort craint, &amp; n'eſtre point hay,</l>
+               <l>Eſtre tyran &amp; mourir de vieilleſſe.</l>
+            </lg>
+            <lg n="105">
+               <head>CV.</head>
+               <l>Ne va au bal qui n'aimera la danſe,</l>
+               <l>Ny au banquet qui ne voudra manger,</l>
+               <l>Ny ſur la mer qui craindra le danger,</l>
+               <l>Ny à la Cour pour dire ce qu'il penſe.</l>
+            </lg>
+            <pb n="21" facs="tcp:153482:11"/>
+            <lg n="106">
+               <head>CVI.</head>
+               <l>Du mediſant la langue venimeuſe,</l>
+               <l>Et du flateur les propos emmielez,</l>
+               <l>Et du moqueur les brocards enfièlez,</l>
+               <l>Et du malin la pourſuite animeuſe.</l>
+            </lg>
+            <lg n="107">
+               <head>CVII.</head>
+               <l>Haïr le vray, ſe feindre en toutes choſes,</l>
+               <l>Sonder le ſimple, afin de l'attraper,</l>
+               <l>Braver le foible, &amp; ſur l'abſent drapper;</l>
+               <l>Sont de la Cour les oeillets &amp; les roſes.</l>
+            </lg>
+            <lg n="108">
+               <head>CVIII.</head>
+               <l>Adverſité, defaveur &amp; querelle,</l>
+               <l>Sont trois eſſais pour ſonder ſon amy,</l>
+               <l>Tel a ce nom qui ne l'eſt qu'à demy,</l>
+               <l>Et ne ſauroit endurer la coupelle.</l>
+            </lg>
+            <lg n="109">
+               <head>CIX.</head>
+               <l>Aime l'eſtat, tel que tu le vois eſtre;</l>
+               <l>S'il eſt Royal, aime la royauté,</l>
+               <l>S'il eſt de peu, ou bien communauté:</l>
+               <l>Aime. le auſſi, quand Dieu t'y a fait eſtre.</l>
+            </lg>
+            <lg n="110">
+               <head>CX.</head>
+               <l>Il eſt permis ſouhaitter un bon Prince:</l>
+               <l>Mais tel qu'il eſt, il le convient porter:</l>
+               <l>Car il vaut mieux un tyrant ſupporter,</l>
+               <l>Que de troubler la paix de ſa Province.</l>
+            </lg>
+            <lg n="111">
+               <head>CXI.</head>
+               <l>A ton Seigneur &amp; ton Roy ne te joüe,</l>
+               <l>Et s'il t'en prie, il t'en faut excuſer:</l>
+               <l>Qui des faveurs des Rois penſe abuſer,</l>
+               <l>Bien toſt, froiſſé, chet au bas de la
+roüe.</l>
+            </lg>
+            <pb n="22" facs="tcp:153482:12"/>
+            <lg n="112">
+               <head>CXII.</head>
+               <l>Qui de bas lieu (miracle de fortune)</l>
+               <l>En un matin t'es hauſſé ſi avant,</l>
+               <l>Penſes-tu point que ce n'eſt que du vent,</l>
+               <l>Qui calmera peut-eſtre ſur la brune?</l>
+            </lg>
+            <lg n="113">
+               <head>CXIII.</head>
+               <l>L'eſtat moyen, eſt l'eſtat plus durable:</l>
+               <l>On voit des eaux le plat pays noyé,</l>
+               <l>Et les hauts monts ont le chef foudroyé:</l>
+               <l>Un petit ertre eſt ſeur &amp; agreable.</l>
+            </lg>
+            <lg n="114">
+               <head>CXIV.</head>
+               <l>De peu de biens nature ſe contente,</l>
+               <l>Et peu ſuffit pour vivre honneſtement:</l>
+               <l>L'homme ennemy de ſon contentement,</l>
+               <l>Plus a, &amp; plus pour avoir ſe tour mente.</l>
+            </lg>
+            <lg n="115">
+               <head>CXV.</head>
+               <l>Quand tu verras que Dieu au Ciel retire</l>
+               <l>A coup a coup les hommes vertueux,</l>
+               <l>Dis hardiment, l'orage impetueux</l>
+               <l>Viendra bien-toſt ébranler cet Empire.</l>
+            </lg>
+            <lg n="116">
+               <head>CXVI.</head>
+               <l>Les gens de bien ce ſont comme gros termes,</l>
+               <l>Ou forts pilliers qui ſervent d'arcs-boutans</l>
+               <l>Pour appuyer contre l'effort du temps</l>
+               <l>Les hauts Eſtats &amp; les maintenir fermes.</l>
+            </lg>
+            <lg n="117">
+               <head>CXVII.</head>
+               <l>L'homme ſe plaint de ſa trop courte vie,</l>
+               <l>Et cependant n'employe où il devroit</l>
+               <l>Le temps qu'il a, qui ſuffir' luy pourroit.</l>
+               <l>Si pour bien vivre avoit de vivre envie.</l>
+            </lg>
+            <pb n="23" facs="tcp:153482:12" rendition="simple:additions"/>
+            <lg n="118">
+               <head>CXVIII.</head>
+               <l>Tu ne ſaurois d'aſſez ample ſalaire</l>
+               <l>Recompenſer celuy qui t'a ſoigné</l>
+               <l>En ton enfance, &amp; qui t'a enſeigné</l>
+               <l>A bien parler, &amp; ſur tout à bien faire.</l>
+            </lg>
+            <lg n="119">
+               <head>CXIX.</head>
+               <l>Es jeux publics, au theatre, à la table,</l>
+               <l>Cede ta place au vieillard &amp; chenu:</l>
+               <l>Quand tu ſeras à ſon âge venu,</l>
+               <l>Tu trouveras qui fera le ſemblable.</l>
+            </lg>
+            <lg n="120">
+               <head>CXX.</head>
+               <l>Cil qui ingrat envers toy ſe demontre,</l>
+               <l>Va augmentant le los de ton bien-fait:</l>
+               <l>Le reprocher maint homme ingrat a fait:</l>
+               <l>C'eſt ſe payer, que du bien faire montre.</l>
+            </lg>
+            <lg n="121">
+               <head>CXXI.</head>
+               <l>Boire &amp; manger, s'exercer par meſure,</l>
+               <l>Sont de ſanté les outils plus certains:</l>
+               <l>L'excez en l'un de ces trois aux humains</l>
+               <l>Haſte la mort, &amp; force la nature.</l>
+            </lg>
+            <lg n="122">
+               <head>CXXII.</head>
+               <l>Si quelquefois le mechant te blaſonne,</l>
+               <l>Que t'en chaut-il? helas! c'eſt ton honneur:</l>
+               <l>Le blaſme prend la force du donneur:</l>
+               <l>Le los eſt bon, quand un bon nous le donne.</l>
+            </lg>
+            <lg n="123">
+               <head>CXXIII.</head>
+               <l>Nous meſlons tout, le vray parlet ſe change:</l>
+               <l>Souvent le vice eſt du nom reveſtu</l>
+               <l>De la prochaine oppoſite vertu:</l>
+               <l>Le los eſt blaſme &amp; le blaſme eſt loüange.</l>
+            </lg>
+            <pb n="24" facs="tcp:153482:13"/>
+            <lg n="124">
+               <head>CXXIV.</head>
+               <l>En bonne part ce qu'on dit tu dois prendre,</l>
+               <l>Et l'imparfait du prochain ſupporter,</l>
+               <l>Couvrir ſa faute, &amp; ne la rapporter,</l>
+               <l>Prompt à loüer, &amp; tardif à reprendre.</l>
+            </lg>
+            <lg n="125">
+               <head>CXXV.</head>
+               <l>Cil qui ſe penſe &amp; ſe dit eſtre ſage,</l>
+               <l>Tien-le pour fol, &amp; celuy qui ſcavant</l>
+               <l>Se fait nommer, ſonde-le bien avant,</l>
+               <l>Tu trouveras que ce n'eſt que langage.</l>
+            </lg>
+            <lg n="126">
+               <head>CXXVI.</head>
+               <l>Plus on eſt docte, &amp; plus on ſe dèfie</l>
+               <l>D'eſtre ſavant: &amp; l'homme vertueux,</l>
+               <l>Jamais n'eſt veu eſtre preſomptueux,</l>
+               <l>Voylà des fruits de ma Philoſophie.</l>
+            </lg>
+            <trailer>FIN.</trailer>
+         </div>
+         <div type="part">
+            <pb n="25" facs="tcp:153482:13"/>
+            <head>LES QUATRAINS DU PRESIDENT FAVRE.</head>
+            <lg n="1">
+               <head>I.</head>
+               <l>POUR vivre à Dieu, l'homme doit en Dieu vivre:</l>
+               <l>Qui vit à ſoy, meurt ſouvent à ſon Dieu:</l>
+               <l>Mais celuy-là qui dit au monde adieu,</l>
+               <l>Mourant à ſoy, vit bien pour mieux revivre.</l>
+            </lg>
+            <lg n="2">
+               <head>II.</head>
+               <l>Ce n'eſt mourir de perdre cette vie,</l>
+               <l>Rien que le corps par la mort n'eſt vaincu,</l>
+               <l>Pourveu qu'on ait Chreſtiennement veſcu,</l>
+               <l>La mort ſe voit par ſoy-meſme ravie.</l>
+            </lg>
+            <lg n="3">
+               <head>III.</head>
+               <l>Ce ſac de vers, cette charongne morte,</l>
+               <l>Un jour, un jour ſon ame reprendra,</l>
+               <l>Lors par effect le corps advouëra,</l>
+               <l>Que non luy l'ame, ains que l'ame le porte.</l>
+            </lg>
+            <pb n="26" facs="tcp:153482:14"/>
+            <lg n="4">
+               <head>IV.</head>
+               <l>Ayant forfait, ne dy point, je ſuis homme:</l>
+               <l>Mais ſouvien-toy d'eſtre encore Chreſtien:</l>
+               <l>Et t'advoûant indigne d'un tel bien,</l>
+               <l>Garde ſur tout qu'ingrat Dieu ne te nomme.</l>
+            </lg>
+            <lg n="5">
+               <head>V.</head>
+               <l>Où que tu ſois, quoy que ton peché face,</l>
+               <l>Croy que ton Dieu te voit de tout coſté:</l>
+               <l>Pourrois-tu bien de ſa divinité,</l>
+               <l>Reſpecter moins que d'un Prince la face?</l>
+            </lg>
+            <lg n="6">
+               <head>VI.</head>
+               <l>Adore Dieu comme un Chreſtien doit faire,</l>
+               <l>N'eſt le prier de levres, ains de coeur:</l>
+               <l>Le principal, c'eſt d'aymer ſon honneur,</l>
+               <l>C'eſt l'adorer, ne vouloir luy deſplaire.</l>
+            </lg>
+            <lg n="7">
+               <head>VII.</head>
+               <l>Ren-toy devot, ſi tu veux que la grace</l>
+               <l>De ce grand Dieu t'empeſche de pecher,</l>
+               <l>Et ne croy pas d'eſtre ſi dur rocher,</l>
+               <l>Que pour cela meilleur il ne te face.</l>
+            </lg>
+            <lg n="8">
+               <head>VIII.</head>
+               <l>Eſtre devot n'eſt qu'un deſir extreme</l>
+               <l>De laiſſer tout pour s'unir tout à Dieu:</l>
+               <l>Mais qui plus eſt, quand le temps &amp; le lieu</l>
+               <l>Le veut ainſi, pour Dieu laiſſer Dieu meſme.</l>
+            </lg>
+            <lg n="9">
+               <head>IX.</head>
+               <l>Pour vivre bien, fay que ſouvent ton ame</l>
+               <l>Rentrant en ſoy medite ſainctement</l>
+               <l>Quel eſt ton Dieu, quel toy ſemblablement:</l>
+               <l>Combien luy grand, combien toy pauvre infame.</l>
+            </lg>
+            <lg n="10">
+               <head>X.</head>
+               <l>En ces deux poincts, ſoy-meſme &amp;</l>
+               <l>Dieu connoiſtre, Giſt tout le bien qui ſe peut
+deſirer:</l>
+               <l>Heureux qui peut l'un de l'autre attirer,</l>
+               <l>Et par le Ciel le enſers reconnoiſtre.</l>
+            </lg>
+            <pb n="27" facs="tcp:153482:14"/>
+            <lg n="11">
+               <head>XI.</head>
+               <l>Fay qu'un deſir de la vie éternelle</l>
+               <l>Inceſſamment eſpoineaonne ton coeur,</l>
+               <l>Si tu pretens d'eſtre enfin le vainqueur,</l>
+               <l>De cette mort qui ſe vante immortelle.</l>
+            </lg>
+            <lg n="12">
+               <head>XII.</head>
+               <l>Garde-toy bien d'aimer Dieu pour la gloire,</l>
+               <l>Qu'un jour tu veux de ſa main recevoir,</l>
+               <l>Tu te rendrois indigne de l'avoir,</l>
+               <l>Le propoſant au prix de ta victoire.</l>
+            </lg>
+            <lg n="13">
+               <head>XIII.</head>
+               <l>Ayme ton Dieu pour ſa bonté ſi grande,</l>
+               <l>Qui te cherit d'un amour ſi conſtant:</l>
+               <l>Peux-tu n'aimer un Dieu qui t'aime tant,</l>
+               <l>Qui rien de toy que l'amour ne demande?</l>
+            </lg>
+            <lg n="14">
+               <head>XIV.</head>
+               <l>De cette amour ſi ton ame eſtoit pleine,</l>
+               <l>A ton prochain pourrois-tu faire mal?</l>
+               <l>Puis qu'il ne faut aimer l'homme à l'eſgal,</l>
+               <l>L'amour de Dieu produit l'autre ſans peine.</l>
+            </lg>
+            <lg n="15">
+               <head>XV.</head>
+               <l>Pour bien aimer autruy comme toy meſme,</l>
+               <l>Ne t'aime point ſinon comme celuy,</l>
+               <l>Lequel n'a rien qui ne ſoit de l'autruy,</l>
+               <l>Pour eſtre aimé, non meſmes de ſoy-meſme.</l>
+            </lg>
+            <lg n="16">
+               <head>XVI.</head>
+               <l>Hay ta chair, &amp; ſes plaiſirs infames,</l>
+               <l>Mais encore plus ta propre volonté,</l>
+               <l>C'eſt celle-là de qui l'authorité</l>
+               <l>Fait regorger les enfers de tant d'ames.</l>
+            </lg>
+            <lg n="17">
+               <head>XVII.</head>
+               <l>Tant aimer Dieu que ſoy-meſme on haiſſe,</l>
+               <l>C'eſt s'aimer bien, &amp; d'amour bien lié:</l>
+               <l>Mais t'aimer tant, que Dieu ſoit oublié,</l>
+               <l>C'eſt prier Dieu que l'enfer t'engloutiſſe.</l>
+            </lg>
+            <pb n="28" facs="tcp:153482:15"/>
+            <lg n="18">
+               <head>XVIII.</head>
+               <l>Uſer, jouir, ont telle difference,</l>
+               <l>Que ſans ſe perdre on en peut abuſer:</l>
+               <l>Jouîr Dieu ſeul ſans jamais en uſer:</l>
+               <l>Du reſte uſer, mais non par jouyſſance,</l>
+            </lg>
+            <lg n="19">
+               <head>XIX.</head>
+               <l>Honneurs, eſtats, richeſſe incomparable,</l>
+               <l>Cil qui premier vous oſa dire bien,</l>
+               <l>Puis que ſi mal il connut voſtre rien,</l>
+               <l>Que ne fut-il fait par vous miſerable?</l>
+            </lg>
+            <lg n="20">
+               <head>XX.</head>
+               <l>Si les threſors Dieu compare aux eſpines<g ref="char:punc">▪</g>
+               </l>
+               <l>Comment peux-tu dans ta main les ſerrer?</l>
+               <l>Ouvre-la donc, &amp; pour mieux t'aſſeurer,</l>
+               <l>Remply ton coeur de richeſſes divines.</l>
+            </lg>
+            <lg n="21">
+               <head>XXI.</head>
+               <l>Le voyageur n'eſt il ſot, s'il ne change</l>
+               <l>Tout ſon argent qui n'a miſe autre part?</l>
+               <l>Tu cours au Ciel pour y prendre ta part,</l>
+               <l>Pren donc de Dieu quelque lettre de change.</l>
+            </lg>
+            <lg n="22">
+               <head>XXII.</head>
+               <l>Mais pour l'avoir (car par tout il en donne)</l>
+               <l>Fay liberal l'aumoſne à plein boiſſeau,</l>
+               <l>Puis que tu ſcais, que pour un verre d'eau,</l>
+               <l>Pour un denier il rend mainte couronne.</l>
+            </lg>
+            <lg n="23">
+               <head>XXIII.</head>
+               <l>Quand tu reeaois en tes biens grand dommage,</l>
+               <l>Pour te ſauver Dieu deſcharge ta nef;</l>
+               <l>Puis qu'il te faut entrer là haut en bref,</l>
+               <l>Garde qu'au port tu ne faces naufrage.</l>
+            </lg>
+            <lg n="24">
+               <head>XXIV.</head>
+               <l>Oy ce vieil mot qui dit, Cache ta vie,</l>
+               <l>Si tu ne veux que vivre impunement:</l>
+               <l>Mais ſi tu ſais vivre Chreſtiennement,</l>
+               <l>Fay qu'on la voye, &amp; qu'on y prenne envie.</l>
+            </lg>
+            <pb n="29" facs="tcp:153482:15"/>
+            <lg n="25">
+               <head>XXV.</head>
+               <l>Ne cherche point de reſſembler, mais d'eſtre</l>
+               <l>Tel que tu veux de tous eſtre eſtimé,</l>
+               <l>A quoi te vaut d'eſtre tel renommé,</l>
+               <l>Si Dieu te voit, s'ilte tient pour un traiſtre.</l>
+            </lg>
+            <lg n="26">
+               <head>XXVI.</head>
+               <l>Je ne veux pas que l'honneur tu meſpriſes,</l>
+               <l>Quand ta vertu ſe fera venerer:</l>
+               <l>Mais je voudrois, que pour plus t'honorer,</l>
+               <l>Il vinſt à toy lors que moins tu le priſes.</l>
+            </lg>
+            <lg n="27">
+               <head>XXVII.</head>
+               <l>Ce point d'honneur qui tant pique le monde,</l>
+               <l>Croy qu'il n'eſt pas, puis que ce n'eſt qu'un point:</l>
+               <l>Ou que s'il eſt, pour le moins il n'a point</l>
+               <l>De cet honneur, qui porte qu'on s'y fonde.</l>
+            </lg>
+            <lg n="28">
+               <head>XXVIII.</head>
+               <l>Croy que pluſtoſt c'eſt un ſeur teſmoignage</l>
+               <l>Du peu de coeur qu'a l'homme impatient,</l>
+               <l>Qui pour braver, à la mort s'enfuyant,</l>
+               <l>Du moindre mot ne peut vaincre l'outrage.</l>
+            </lg>
+            <lg n="29">
+               <head>XXIX.</head>
+               <l>Lors qu'il faudra que la cauſe publique,</l>
+               <l>Ou de ton Dieu arme en guerre ton flanc,</l>
+               <l>Fay voir alors, prodigue de ton ſang,</l>
+               <l>Combien tu vaux, quand le devoir te picque.</l>
+            </lg>
+            <lg n="30">
+               <head>XXX.</head>
+               <l>Ne penſe pa; qu'un bon coeur ſe défie</l>
+               <l>D'eſtre vaillant &amp; humble enſemblement:</l>
+               <l>L'humilité doit eſtre l'ornement</l>
+               <l>De la valeur, l'orgueil de la furie.</l>
+            </lg>
+            <lg n="31">
+               <head>XXXI.</head>
+               <l>L'humilité à Platon inconnuë,</l>
+               <l>Ne s'apprend point qu'en l'Eſcole de Dieu:</l>
+               <l>C'eſt celle-là, qui ſeule ſans milieu.</l>
+               <l>Se porte en bas pour voler ſur la nuë.</l>
+            </lg>
+            <pb n="30" facs="tcp:153482:16"/>
+            <lg n="32">
+               <head>XXXII.</head>
+               <l>Si par diſcours tu ne peux bien comprendre</l>
+               <l>De ta grandeur l'immenſe vilité,</l>
+               <l>Voy qui tu es, voy qui tu as eſté,</l>
+               <l>Qui tu ſeras encore apres ta cendre.</l>
+            </lg>
+            <lg n="33">
+               <head>XXXIII.</head>
+               <l>Si Dieu fait chair, s'appelle ver de terre,</l>
+               <l>Voudrois-tu bien prendre un titre pareil?</l>
+               <l>Dy que tu n'es que poudre, ains le cercueil,</l>
+               <l>Où le grand Rien tous ſes titres enterre.</l>
+            </lg>
+            <lg n="34">
+               <head>XXXIV.</head>
+               <l>L'humilité n'eſt point embitieuſe</l>
+               <l>De cét honneur qui la ſuit dignement:</l>
+               <l>C'eſt double orgueil de feindre ſimplement</l>
+               <l>L'humilité, qnand elle eſt orgueilleuſe.</l>
+            </lg>
+            <lg n="35">
+               <head>XXXV.</head>
+               <l>Ne penſe pas que pour humble te dire,</l>
+               <l>Ce ſoit aſſez d'eſtre tel reconnu,</l>
+               <l>Il faut de plus, quand tu ſeras tenu</l>
+               <l>Homme de peu, le croire &amp; puis t'en rire.</l>
+            </lg>
+            <lg n="36">
+               <head>XXXVI.</head>
+               <l>Ne fay jamais que ton oeuvre meſchante</l>
+               <l>Donne argument de parler mal de toy:</l>
+               <l>C'eſt le ſecret pour bien vivre &amp; m'en croy,</l>
+               <l>Ouîr le blaſme, &amp; faire tant qu'il mente.</l>
+            </lg>
+            <lg n="37">
+               <head>XXXVII.</head>
+               <l>Quand tu ſeras outrage comme infame,</l>
+               <l>Ne dy jamais, je ſuis homme de bien:</l>
+               <l>Mais dy ſans fard, ha! je merite bien</l>
+               <l>Pour mes pechez plus de mal que ce blaſme.</l>
+            </lg>
+            <lg n="38">
+               <head>XXXVIII.</head>
+               <l>Ne fais eſtat que de ta conſcience,</l>
+               <l>Si l'on te veut fauſſement accuſer,</l>
+               <l>Ne laiſſe pas pour ne ſcandaliſer,</l>
+               <l>De faire voir à tous ton innocence.</l>
+            </lg>
+            <pb n="31" facs="tcp:153482:16"/>
+            <lg n="39">
+               <head>XXXIX.</head>
+               <l>Pren pour amis ceux qui ſont de ton aage,</l>
+               <l>S'ils ſont meilleurs &amp; plus ſages que toy:</l>
+               <l>S'ils ne le ſont (ſans leur dire pourquoy)</l>
+               <l>Laiſſe les là, prend des vieux le plus ſage.</l>
+            </lg>
+            <lg n="40">
+               <head>XL.</head>
+               <l>Platon dit vray, que de la défiance</l>
+               <l>(comme un enfant) la prudence naiſſoit:</l>
+               <l>Ne dy qu'encor la deffience ſoit,</l>
+               <l>Tout au rebours fille de la prudence,</l>
+            </lg>
+            <lg n="41">
+               <head>XLI.</head>
+               <l>Aime un chacun, ſi tu veux que Dieu t'aime</l>
+               <l>Ne pren pourtant un chacun pour amy:</l>
+               <l>Aime un chacun, voire ton ennemy:</l>
+               <l>Mais tes amis plus encor que toy-même.</l>
+            </lg>
+            <lg n="42">
+               <head>XLII.</head>
+               <l>A ton amy qu'auras ſceu bien élire.</l>
+               <l>Ne crain d'ouvrir le ſecret de ton coeur:</l>
+               <l>Mais pour jamais n'offencer ſon honneur,</l>
+               <l>Crain de penſer ce qu'il doive redire.</l>
+            </lg>
+            <lg n="43">
+               <head>XLIII.</head>
+               <l>De l'ennemy, qui tes oeuvres épie,</l>
+               <l>Pour t'en venger tire commodité,</l>
+               <l>Te faiſant bon, ſi tu ne l'as eſté,</l>
+               <l>Si ja tu l'es, vivant plus ſainte vie.</l>
+            </lg>
+            <lg n="44">
+               <head>XLIV.</head>
+               <l>L'homme méchant (eſclave de ſon vice)</l>
+               <l>Ne peut durer, s'il n'a de grands amis:</l>
+               <l>Mais pour mon mieux, Dieu me doint ennemîs</l>
+               <l>Plein d'un deſir qui brave ma malice.</l>
+            </lg>
+            <lg n="45">
+               <head>XLV.</head>
+               <l>Pour eſtre aimé, fay que ceux qui te priſent,</l>
+               <l>De ta faveur cheriſſent les honneurs,</l>
+               <l>Et ne ſois pas fait ſemblable à pluſieurs,</l>
+               <l>Qu'on n'aime point, que de peur qu'ils ne nuiſent</l>
+            </lg>
+            <pb n="32" facs="tcp:153482:17"/>
+            <lg n="46">
+               <head>XLVI.</head>
+               <l>Fol eſt celuy dont le diſcours ſe fonde</l>
+               <l>Sur ce qu'il peut en ſonge imaginer:</l>
+               <l>Mais bien plus ſot, qui penſe gouverner</l>
+               <l>Apres ſa mort une autrefois le monde.</l>
+            </lg>
+            <lg n="47">
+               <head>XLVII.</head>
+               <l>A quoi ſervir tant de vaines lou<g ref="char:cmbAbbrStroke">̄</g>anges,</l>
+               <l>Apres ta mort tu ne les ſentiras,</l>
+               <l>Garde pluſtoſt, que là où tu ſeras,</l>
+               <l>Tune ſois ry du diable &amp; de ſes Anges.</l>
+            </lg>
+            <lg n="48">
+               <head>XLVIII.</head>
+               <l>Puis que tu ſcais quel moyen il faut ſuivre,</l>
+               <l>Pour vivre bien, pourquoy ne vis-tu pas,</l>
+               <l>Pour bien mourir, ainſi qu'à ton trépas,</l>
+               <l>Tu voudrois bien avoir ſceu toûjours vivre.</l>
+            </lg>
+            <lg n="49">
+               <head>XLIX.</head>
+               <l>Si pour guerdon de ta vertu plus rare,</l>
+               <l>Dieu t'enrichit &amp; de biens &amp; d'honneur,</l>
+               <l>Louê ſi haut la bonté du donneur,</l>
+               <l>Que pour ton mieux il n'en ſoit plus avare.</l>
+            </lg>
+            <lg n="50">
+               <head>L.</head>
+               <l>Tu peux bâtir comme oyſeau ſur la terre,</l>
+               <l>Comme Cheſtien tu dois bâtir aux Cieux</l>
+               <l>Ce ſeul Palais te rende ambitieux,</l>
+               <l>Dont Dieu ſera le maſſon &amp; la pierre.</l>
+            </lg>
+            <lg n="51">
+               <head>LI.</head>
+               <l>De l'envieux les langueurs nompareilles</l>
+               <l>Tiennent ſon coeur juſtement affligé,</l>
+               <l>Mais ſi tu veux eſtre encor mieux vangé,</l>
+               <l>Donne à ſon coeur cent yeux &amp; mille oreilles.</l>
+            </lg>
+            <lg n="52">
+               <head>LII.</head>
+               <l>Du mal d'autruy prendre un plaiſir extréme,</l>
+               <l>Du bien d'autruy concevoir maint regret,</l>
+               <l>C'eſt témoigner de ne ſcavoir que c'eſt,</l>
+               <l>Ny bien, ny mal d'autruy, ny de ſoy-meſme.</l>
+            </lg>
+            <pb n="33" facs="tcp:153482:17"/>
+            <lg n="53">
+               <head>LIII.</head>
+               <l>L'homme laſcif prend ſa chair pour excuſe,</l>
+               <l>L'avare l'or, le ſuperbe l'honneur,</l>
+               <l>L'ire un ſang chaud, la ſanté le dormeur,</l>
+               <l>Et le gourmand, l'envieux tout accuſe.</l>
+            </lg>
+            <lg n="54">
+               <head>LIV.</head>
+               <l>Rougis tu point luxurieux infame,</l>
+               <l>De décharger ta faute ſur le corps?</l>
+               <l>Hé! penſes-tu honniſſant le dehors,</l>
+               <l>Rendre plus net le dedans de ton ame?</l>
+            </lg>
+            <lg n="55">
+               <head>LV.</head>
+               <l>Ne dy jamais pour couvrir ta luxure,</l>
+               <l>Que ce peché ſe cache dans ta chair:</l>
+               <l>C'eſt dans ton coeur que tu dois rechercher</l>
+               <l>De ton forfait, &amp; la ſource, &amp; l'ordure.</l>
+            </lg>
+            <lg n="56">
+               <head>LVI.</head>
+               <l>De ces pechez que capitaux on nomme,</l>
+               <l>Scache ſur tous la luxure fuîr,</l>
+               <l>Ne vois-tu pas les beſtes y courir?</l>
+               <l>Les autres n'ont, que du diable, &amp; de l'homme.</l>
+            </lg>
+            <lg n="57">
+               <head>LVII.</head>
+               <l>L'avare étant de ſon or idolatre,</l>
+               <l>N'a pour objet que le mal de ſon bien,</l>
+               <l>Et pour compter, changeant ſon tout en rien,</l>
+               <l>Moins il en a, plus il dit cinq &amp; quatre.</l>
+            </lg>
+            <lg n="58">
+               <head>LVIII.</head>
+               <l>Bien dit-on vray, qu'il n'eſt telle richeſſe</l>
+               <l>Pour vivre heureux, que le contentement:</l>
+               <l>L'avare n'a que le content: &amp; ment,</l>
+               <l>Quand ſien il dit, ce qu'aux autres il delaiſſe.</l>
+            </lg>
+            <lg n="59">
+               <head>LIX.</head>
+               <l>Si tu pouvois le Ciel par l'or acquerre,</l>
+               <l>Ce ſoin devroit ſans ceſſe te tenir,</l>
+               <l>Mais ſi tu ſcais quel mal t'en peut venir,</l>
+               <l>Pourquoy baiſer l'excrement de la terre?</l>
+            </lg>
+            <pb n="34" facs="tcp:153482:18"/>
+            <lg n="60">
+               <head>LX.</head>
+               <l>De quoy peux-tu t'enorgueillir ſuperbe,</l>
+               <l>Si tu n'as rien que Dieu ne t'ait donné?</l>
+               <l>S'il faut dêja, qu'à peine encore bien
+né,</l>
+               <l>Tu ſois l'épic, dont la mort fait ſa gerbe.</l>
+            </lg>
+            <lg n="61">
+               <head>LXI.</head>
+               <l>L'ambition du Ciel precipitée,</l>
+               <l>Contre le Ciel va toûjours s'élevant:</l>
+               <l>C'eſt pour plonger aux enfers plus avant,</l>
+               <l>Comme au bourbier la pierre en haut jettée,</l>
+            </lg>
+            <lg n="62">
+               <head>LXII.</head>
+               <l>L'ambition pour mere a l'ignorance,</l>
+               <l>L'orgueil pour pere, &amp; l'enfer pour pays,</l>
+               <l>Pour ſon plaiſir cent mille &amp; mille ennuis.</l>
+               <l>Mais pour bourreau ſa ſeule impatience.</l>
+            </lg>
+            <lg n="63">
+               <head>LXIII.</head>
+               <l>Quoy qu'offenſé, ſois toûjours debonnaire,</l>
+               <l>Et en ce point ne reſſemble à Platon,</l>
+               <l>Qui n'épargnoit ſes valets, ce dit-on,</l>
+               <l>Que quand contr'eux il étoit en colere.</l>
+            </lg>
+            <lg n="64">
+               <head>LXIV.</head>
+               <l>Dieu ne veut pas qu'à l'égal d'une fouohe,</l>
+               <l>Tu ſois ſans poulx, quand tu es offencé:</l>
+               <l>Mais que ton coeur (juſtement courroucé)</l>
+               <l>Se commandant tienne en bride ta bouche.</l>
+            </lg>
+            <lg n="65">
+               <head>LXV.</head>
+               <l>Le courroux eſt des tortures plus fortes</l>
+               <l>Pour découvrir de ton coeur le ſecret:</l>
+               <l>Sois au rebours à la grace tout preſt,</l>
+               <l>Tu feras voir qu'en ton coeur Dieu tu portes.</l>
+            </lg>
+            <lg n="66">
+               <head>LXVI.</head>
+               <l>Si des pechez le grand nombre te preſſe,</l>
+               <l>Si le combat t'en ſemble trop affreux,</l>
+               <l>Je te diray comme en fuy ant tu peux</l>
+               <l>Les vaincre tous, fuy la ſeule pareſſe.</l>
+            </lg>
+            <pb n="35" facs="tcp:153482:18"/>
+            <lg n="67">
+               <head>LXVII.</head>
+               <l>Courir toûjours au devoir de ſa charge,</l>
+               <l>C'eſt combatant fuyr l'oiſiveté:</l>
+               <l>Sans dur combat le vice n'eſt dompté,</l>
+               <l>La ſeule chair, quand tu fuis pren la charge.</l>
+            </lg>
+            <lg n="68">
+               <head>LXVIII.</head>
+               <l>Ce n'eſt le tout de brouïller maint affaire,</l>
+               <l>Pour n'eſtre dit juſtement pareſſeux:</l>
+               <l>Le principal, c'eſt n'eſtre point de ceux,</l>
+               <l>Leſquels font tout, fors ce qu'ils doivent faire.</l>
+            </lg>
+            <lg n="69">
+               <head>LXIX.</head>
+               <l>Pauvre gourmand, d'où vient que tant tu di<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>Si tu n'as faim, ou ſi toſt ne l'auras?</l>
+               <l>Veux-tu ſcavoir comment tu banniras,</l>
+               <l>Ces voluptez, goûte mieux les divines.</l>
+            </lg>
+            <lg n="70">
+               <head>LXX.</head>
+               <l>Pourquoy dis tu pour excuſer ta bouche,</l>
+               <l>Que ta ſanté te fait eſtre gourmand:</l>
+               <l>Si par jeuſner ton ventre oncques n'apprend,</l>
+               <l>Combien dort mieux qui ſans ſouper ſe couche.</l>
+            </lg>
+            <lg n="71">
+               <head>LXXI.</head>
+               <l>Le ventre plein de crapule &amp; de ſauce,</l>
+               <l>Tout en dormant la luxure produit:</l>
+               <l>Fay le jeuner, il ſera moins de bruit,</l>
+               <l>Et ſi fera que tant mieux Dieu t'exauce.</l>
+            </lg>
+            <lg n="72">
+               <head>LXXII.</head>
+               <l>Si d'un beau corps le vain regard te tente,</l>
+               <l>Va voir ton ame, &amp; une, &amp; ſans témoins,</l>
+               <l>Si belle elle eſt, pourquoy l'aimes tu moins</l>
+               <l>S'elle ne l'eſt, qu'eſt ce qui te contente?</l>
+            </lg>
+            <lg n="73">
+               <head>LXXIII.</head>
+               <l>Si tu voyois la beauté de cette ame,</l>
+               <l>Lors que de Dieu la grace l'embellit,</l>
+               <l>Tu brùlerois &amp; ta table, &amp; ton lit,</l>
+               <l>Pour t'embraſer d'une ſi ſaincte flame.</l>
+            </lg>
+            <pb n="36" facs="tcp:153482:19"/>
+            <lg n="74">
+               <head>LXXIV.</head>
+               <l>Pour parvenir tu peux bien te promettre,</l>
+               <l>Sans te flatter, qu'enſin tu parviendras:</l>
+               <l>Mais ne croy point, lors que grand tu ſeras,</l>
+               <l>D'eſtre ſi bon qu'il faudroit pour tel eſtre.</l>
+            </lg>
+            <lg n="75">
+               <head>LXXV.</head>
+               <l>Ne juge point l'homme bon, ou coulpable,</l>
+               <l>Pour bien, ou mal, qu'il reçoive de Dieu:</l>
+               <l>Voy ſeulement ſi le Ciel, ou le feu,</l>
+               <l>Déja le fait heureux, ou miſerable.</l>
+            </lg>
+            <lg n="76">
+               <head>LXXVI.</head>
+               <l>Vy comme ayant à mourir tout á l'heure,</l>
+               <l>Vy comme ayant à vivre longuement:</l>
+               <l>L'un te fera vivre éternellement,</l>
+               <l>L'autre ſi peu, qu'à ta mort on te pleure.</l>
+            </lg>
+            <lg n="77">
+               <head>LXXVII.</head>
+               <l>Ne crain la mort, pour douleur qu'elle apporte,</l>
+               <l>La mort n'eſt rien, puis qu'on ne la ſent pas:</l>
+               <l>Mais vy ſi bien, qu'apres ce tien treſpas,</l>
+               <l>La meſme mort aux enfers ne t'emporte.</l>
+            </lg>
+            <lg n="78">
+               <head>LXXVIII.</head>
+               <l>Ton Dieu, ta mort, pour un jour te ſurprendre,</l>
+               <l>Comme larrons veillent ja ta maiſon;</l>
+               <l>Pour t'aſſeurer, ſcache en toute ſaiſon,</l>
+               <l>Faiſant bon guet, eſtre preſt de te rendre.</l>
+            </lg>
+            <lg n="79">
+               <head>LXXIX.</head>
+               <l>L'homme de bien peut ſouffrir calomnie,</l>
+               <l>Il n'en doit pas eſtre moins eſtimé:</l>
+               <l>Mais quand tu vois quelque homme diffamé,</l>
+               <l>Croy que ſon nom eſt meilleur que ſa vie.</l>
+            </lg>
+            <lg n="80">
+               <head>LXXX.</head>
+               <l>De tes amis honore la memoire,</l>
+               <l>S'ils ſont vivans, cherche de les revoir:</l>
+               <l>S'ils ſont ja morts, fay qu'ils puiſſent te voir</l>
+               <l>Un jour la haut compagnon de leur gloire.</l>
+            </lg>
+            <pb n="37" facs="tcp:153482:19"/>
+            <lg n="81">
+               <head>LXXXI.</head>
+               <l>D'un tien ami perdant la jouïſſance,</l>
+               <l>Si par ſa mort pren le patiemment,</l>
+               <l>Si par ſon tort, pren le joyeuſement,</l>
+               <l>Si par le tien, meurs, ou purge l'offence.</l>
+            </lg>
+            <lg n="82">
+               <head>LXXXII.</head>
+               <l>Quand le méchant te voudra faire outrage,</l>
+               <l>Pour ne venger, ni recevoir le tort,</l>
+               <l>Fay luy toucher que tu es le plus fort:</l>
+               <l>Mais en effet montre tov le plus ſage.</l>
+            </lg>
+            <lg n="83">
+               <head>LXXXIII.</head>
+               <l>Si de ton Dieu la juſte main te preſſe,</l>
+               <l>Reconnoiſſant que c'eſt pour ton peché,</l>
+               <l>Souffre joyeux: ou ſi tu es fâché,</l>
+               <l>Fay voir que c'eſt ton peché qui te bleſſe.</l>
+            </lg>
+            <lg n="84">
+               <head>LXXXIV.</head>
+               <l>Du coeur humain la figure t'exhorte,</l>
+               <l>Que le tien ſoit quant au monde ſerré:</l>
+               <l>Mais quant à Dieu, large, ouvert &amp; quarré,</l>
+               <l>Pour le loger quand luv-même s'y porte.</l>
+            </lg>
+            <lg n="85">
+               <head>LXXXV.</head>
+               <l>Peut-on ſouffrir que la Philoſophie</l>
+               <l>D'un ſeul inſtant face ſi peu de cas,</l>
+               <l>S'il faut enfin que l'inſtant du trépas</l>
+               <l>Donne la loy à l'éternelle vie?</l>
+            </lg>
+            <lg n="86">
+               <head>LXXXVI.</head>
+               <l>Si de la mort le chemin pour Dieu même</l>
+               <l>Se voit frayé pour monter ſur les Cieux,</l>
+               <l>Quand tu la vois venir clorre tes yeux,</l>
+               <l>Es-tu Chrètien, ſi ton ame en eſt blême?</l>
+            </lg>
+            <lg n="87">
+               <head>LXXXVII.</head>
+               <l>N'atten d'avoir achevé ta carriere,</l>
+               <l>Pour faire part aux pauvres de ton bien:</l>
+               <l>En pleine nuit faut-il pour y voir bien,</l>
+               <l>Que ton flambeau t'éclaire par derriere?</l>
+            </lg>
+            <pb n="38" facs="tcp:153482:20"/>
+            <lg n="81">
+               <head>LXXXVIII.</head>
+               <l>De tes forfaits quand Dieu t'a purgé l'ame,</l>
+               <l>Sois plus ſoigneux qu'oncques de ne pecher:</l>
+               <l>La méche eſteinte, au ſoudain approcher</l>
+               <l>De la fumée, auſſi toſt ſe r'enflamme.</l>
+            </lg>
+            <lg n="89">
+               <head>LXXXIX.</head>
+               <l>Pour vivre heureux, jamais ne t'imagine</l>
+               <l>L'état meilleur où tu voudrois te voir:</l>
+               <l>Diſcours pluſtoſt que tu deuſſes avoir</l>
+               <l>Pis que tu n'as, comme en étant plus digne.</l>
+            </lg>
+            <lg n="90">
+               <head>XC.</head>
+               <l>Chery l'honneur de voir ſouvent ton Prince,</l>
+               <l>Mais pour cela ne frequente la Cour:</l>
+               <l>Là le plus grand enfin ſe trouve court,</l>
+               <l>Le plus vaillant, celuy qui mieux te pince.</l>
+            </lg>
+            <lg n="91">
+               <head>XCI.</head>
+               <l>N'aille à la Cour qui dira ce qu'il penſe,</l>
+               <l>Ny qui craindra d'avoir mille envieux,</l>
+               <l>Ny qui voudra d'un coeur ambitieux</l>
+               <l>Pretendre au ciel pour toute recompenſe.</l>
+            </lg>
+            <lg n="92">
+               <head>XCII.</head>
+               <l>Nul n'eſt repris de gueule, ou d'avarice,</l>
+               <l>D'orgueil, luxure, envie, oiſiveté,</l>
+               <l>Sans en rougir, tant ſoit il éhonté,</l>
+               <l>Le ſeul venger fait gloire de ſon vice.</l>
+            </lg>
+            <lg n="93">
+               <head>XCIII.</head>
+               <l>Rien ne te ſert de pleurer tes miſeres,</l>
+               <l>Qu'à faire voir que tu n'as point de coeur:</l>
+               <l>Veux-tu tirer profit de ta douleur?</l>
+               <l>Lave un peché de mille pleurs ameres.</l>
+            </lg>
+            <lg n="94">
+               <head>XCIV.</head>
+               <l>Ne dy jamais, tel m'a fait miſerable,</l>
+               <l>Autre que roy ne te peut faire mal:</l>
+               <l>De ton bon-heur es-tu ſi liberal,</l>
+               <l>Qu'au gré d'autruy tu le rendes perdable?</l>
+            </lg>
+            <pb n="39" facs="tcp:153482:20"/>
+            <lg n="95">
+               <head>XCV.</head>
+               <l>L'homme eſt grand ſot, s'il oſe ſe promettre</l>
+               <l>Cent ans de vie, ha! c'eſt trop s'abuſer:</l>
+               <l>Quiconque ſcait ſa vie mépriſer,</l>
+               <l>Scache qu'il eſt de la tienne le maiſtre.</l>
+            </lg>
+            <lg n="96">
+               <head>XCVI.</head>
+               <l>Le monde eſt rond, l'ame triangulaire:</l>
+               <l>Comment pourroient mille mondes remplir</l>
+               <l>L'ame qui eſt capable de tenir</l>
+               <l>Celuy qui peut mille monde défaire?</l>
+            </lg>
+            <lg n="97">
+               <head>XCVII.</head>
+               <l>Heureux celuy qui voit peupler ſa race</l>
+               <l>D'enfans bien nez: mais beaucoup plus heureux,</l>
+               <l>Qui les rend tels, qu'ils puiſſe avoir en eux</l>
+               <l>Dignes vaiſſeaux, où Dieu verſe ſa grace.</l>
+            </lg>
+            <lg n="98">
+               <head>XCVIII.</head>
+               <l>Bien que c'eſt peu de cette vie humaine,</l>
+               <l>Grand eſt celuy qui la ſcait bien priſer!</l>
+               <l>Mais bien plus grand qui la ſcait mépriſer,</l>
+               <l>Non par dédain, mais pour l'aimer ſans peine.</l>
+            </lg>
+            <lg n="99">
+               <head>XCIX.</head>
+               <l>Quand tu voudras compter au vray ton aage,</l>
+               <l>Ne me di point j'ay ſoixante ans &amp; plus:</l>
+               <l>Tu compterois les ans que tu n'as plus,</l>
+               <l>Compte tes jours dés quand tu ſeras ſage.</l>
+            </lg>
+            <lg n="100">
+               <head>C.</head>
+               <l>Si tu fais mal ton plaiſir eſt d'une heure,</l>
+               <l>Mais le regret t'en demeure à jamais:</l>
+               <l>Si tu fais bien te prenant tu t'y plais,</l>
+               <l>La peine paſſe, &amp; le plaiſir demeure.</l>
+            </lg>
+            <trailer>FIN.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
